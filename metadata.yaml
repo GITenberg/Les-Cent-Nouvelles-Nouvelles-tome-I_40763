@@ -1,0 +1,27 @@
+_repo: Les-Cent-Nouvelles-Nouvelles-tome-I_40763
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40763-h/images/coverimage.jpg
+creator:
+  editor:
+    agent_name: Wright, Thomas
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '40435'
+    url: http://www.gutenberg.org/2009/agents/40435
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2012-09-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40763'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+title: Les Cent Nouvelles Nouvelles, tome I
+url: http://www.gutenberg.org/ebooks/40763
